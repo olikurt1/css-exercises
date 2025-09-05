@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+.redPink{
+    background-color:rgb(255, 202, 202);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#secElement{
+    color:blue;
+    font-size:36px;
+    
+}
+
+#thirElement{
+    font-size:24px;
+}
+
+#fourElement{
+    background-color:rgb(85, 255, 85);
+    font-size:24px;
+    font-weight:bold;
+}
